@@ -1,0 +1,4 @@
+This is a sample knowledge base.
+
+It provides AI solutions.
+It specialize in chatbots, automation, and data analysis.
